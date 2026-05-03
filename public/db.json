@@ -1,0 +1,1941 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "title": "Contemporary 3-Bedroom Condo in Boston",
+      "description": "Charming property in a quiet neighborhood with excellent schools nearby. Charming property in a quiet neighborhood with excellent schools nearby.",
+      "price": 528000,
+      "address": "7273 Main St",
+      "city": "Boston",
+      "state": "MA",
+      "zipCode": "78260",
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1612,
+      "lotSize": 12963,
+      "yearBuilt": 1969,
+      "type": "Condo",
+      "status": "Pending",
+      "features": [
+        "Fireplace",
+        "Solar Panels",
+        "Central AC"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop1a/800/600",
+        "https://picsum.photos/seed/prop1b/800/600",
+        "https://picsum.photos/seed/prop1c/800/600"
+      ],
+      "agent": {
+        "name": "Emily Rodriguez",
+        "phone": "(555) 456-7890",
+        "email": "emily@nestquest.com"
+      },
+      "createdAt": "2024-04-01",
+      "isFeatured": true
+    },
+    {
+      "id": 2,
+      "title": "Beautiful 4-Bedroom Townhouse in New York",
+      "description": "Elegant property boasting high ceilings and abundant natural light. Prime location with easy access to dining, shopping, and transit.",
+      "price": 705000,
+      "address": "6866 Walnut Ct",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "58701",
+      "beds": 4,
+      "baths": 4,
+      "sqft": 3225,
+      "lotSize": 7214,
+      "yearBuilt": 2000,
+      "type": "Townhouse",
+      "status": "Sold",
+      "features": [
+        "Balcony",
+        "Smart Home",
+        "EV Charging",
+        "Pool",
+        "Solar Panels",
+        "Gym"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop2a/800/600",
+        "https://picsum.photos/seed/prop2b/800/600",
+        "https://picsum.photos/seed/prop2c/800/600"
+      ],
+      "agent": {
+        "name": "Jessica Taylor",
+        "phone": "(555) 678-9012",
+        "email": "jessica@nestquest.com"
+      },
+      "createdAt": "2024-08-09",
+      "isFeatured": true
+    },
+    {
+      "id": 3,
+      "title": "Beautiful 4-Bedroom House in New York",
+      "description": "Move-in ready with recent upgrades and a spacious backyard. Prime location with easy access to dining, shopping, and transit.",
+      "price": 301000,
+      "address": "6205 Harbor View",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "22365",
+      "beds": 4,
+      "baths": 4,
+      "sqft": 3037,
+      "lotSize": 13237,
+      "yearBuilt": 2000,
+      "type": "House",
+      "status": "For Rent",
+      "features": [
+        "Gym",
+        "Balcony",
+        "Basement",
+        "Hardwood Floors",
+        "Walk-in Closet",
+        "EV Charging"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop3a/800/600",
+        "https://picsum.photos/seed/prop3b/800/600",
+        "https://picsum.photos/seed/prop3c/800/600"
+      ],
+      "agent": {
+        "name": "Sarah Johnson",
+        "phone": "(555) 234-5678",
+        "email": "sarah@nestquest.com"
+      },
+      "createdAt": "2024-03-20",
+      "isFeatured": true
+    },
+    {
+      "id": 4,
+      "title": "Spacious 1-Bedroom Condo in Austin",
+      "description": "Beautifully renovated with an open floor plan perfect for entertaining. Beautifully renovated with an open floor plan perfect for entertaining.",
+      "price": 587000,
+      "address": "8049 Pine St",
+      "city": "Austin",
+      "state": "TX",
+      "zipCode": "49013",
+      "beds": 1,
+      "baths": 1,
+      "sqft": 1791,
+      "lotSize": 4808,
+      "yearBuilt": 1973,
+      "type": "Condo",
+      "status": "For Rent",
+      "features": [
+        "Fireplace",
+        "Hardwood Floors",
+        "EV Charging",
+        "Garden",
+        "Garage",
+        "Laundry Room"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop4a/800/600",
+        "https://picsum.photos/seed/prop4b/800/600",
+        "https://picsum.photos/seed/prop4c/800/600"
+      ],
+      "agent": {
+        "name": "Jessica Taylor",
+        "phone": "(555) 678-9012",
+        "email": "jessica@nestquest.com"
+      },
+      "createdAt": "2024-01-16",
+      "isFeatured": true
+    },
+    {
+      "id": 5,
+      "title": "Spacious 5-Bedroom Townhouse in San Francisco",
+      "description": "Perfectly situated property offering both privacy and convenience. Perfectly situated property offering both privacy and convenience.",
+      "price": 555000,
+      "address": "8192 Walnut Ct",
+      "city": "San Francisco",
+      "state": "CA",
+      "zipCode": "92593",
+      "beds": 5,
+      "baths": 4,
+      "sqft": 4120,
+      "lotSize": 6173,
+      "yearBuilt": 1982,
+      "type": "Townhouse",
+      "status": "For Rent",
+      "features": [
+        "Walk-in Closet",
+        "Solar Panels",
+        "Garage",
+        "Balcony",
+        "Basement",
+        "EV Charging",
+        "Pool"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop5a/800/600",
+        "https://picsum.photos/seed/prop5b/800/600",
+        "https://picsum.photos/seed/prop5c/800/600"
+      ],
+      "agent": {
+        "name": "Emily Rodriguez",
+        "phone": "(555) 456-7890",
+        "email": "emily@nestquest.com"
+      },
+      "createdAt": "2024-11-06",
+      "isFeatured": true
+    },
+    {
+      "id": 6,
+      "title": "Stunning 5-Bedroom House in Denver",
+      "description": "Charming property in a quiet neighborhood with excellent schools nearby. Luxurious living with breathtaking views and top-of-the-line amenities.",
+      "price": 1177000,
+      "address": "1397 Broadway",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "10151",
+      "beds": 5,
+      "baths": 5,
+      "sqft": 4979,
+      "lotSize": 11334,
+      "yearBuilt": 1994,
+      "type": "House",
+      "status": "For Sale",
+      "features": [
+        "Balcony",
+        "Solar Panels",
+        "Garage",
+        "Gym",
+        "Pool"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop6a/800/600",
+        "https://picsum.photos/seed/prop6b/800/600",
+        "https://picsum.photos/seed/prop6c/800/600"
+      ],
+      "agent": {
+        "name": "Jessica Taylor",
+        "phone": "(555) 678-9012",
+        "email": "jessica@nestquest.com"
+      },
+      "createdAt": "2024-01-11",
+      "isFeatured": true
+    },
+    {
+      "id": 7,
+      "title": "Contemporary 6-Bedroom Townhouse in Austin",
+      "description": "Charming property in a quiet neighborhood with excellent schools nearby. Contemporary design meets comfort in this meticulously maintained property.",
+      "price": 165000,
+      "address": "3022 Pine St",
+      "city": "Austin",
+      "state": "TX",
+      "zipCode": "72277",
+      "beds": 6,
+      "baths": 6,
+      "sqft": 1946,
+      "lotSize": 4625,
+      "yearBuilt": 2015,
+      "type": "Townhouse",
+      "status": "For Sale",
+      "features": [
+        "Walk-in Closet",
+        "Central AC",
+        "EV Charging",
+        "Garden"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop7a/800/600",
+        "https://picsum.photos/seed/prop7b/800/600",
+        "https://picsum.photos/seed/prop7c/800/600"
+      ],
+      "agent": {
+        "name": "Jessica Taylor",
+        "phone": "(555) 678-9012",
+        "email": "jessica@nestquest.com"
+      },
+      "createdAt": "2024-05-05",
+      "isFeatured": true
+    },
+    {
+      "id": 8,
+      "title": "Contemporary 5-Bedroom House in Nashville",
+      "description": "Perfectly situated property offering both privacy and convenience. Prime location with easy access to dining, shopping, and transit.",
+      "price": 510000,
+      "address": "1683 Park Pl",
+      "city": "Nashville",
+      "state": "TN",
+      "zipCode": "18015",
+      "beds": 5,
+      "baths": 4,
+      "sqft": 4021,
+      "lotSize": 2300,
+      "yearBuilt": 2023,
+      "type": "House",
+      "status": "For Rent",
+      "features": [
+        "Fireplace",
+        "Solar Panels",
+        "Garden",
+        "Walk-in Closet",
+        "EV Charging",
+        "Hardwood Floors"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop8a/800/600",
+        "https://picsum.photos/seed/prop8b/800/600",
+        "https://picsum.photos/seed/prop8c/800/600"
+      ],
+      "agent": {
+        "name": "Sarah Johnson",
+        "phone": "(555) 234-5678",
+        "email": "sarah@nestquest.com"
+      },
+      "createdAt": "2024-09-11",
+      "isFeatured": true
+    },
+    {
+      "id": 9,
+      "title": "Elegant 2-Bedroom Apartment in Miami",
+      "description": "Charming property in a quiet neighborhood with excellent schools nearby. Luxurious living with breathtaking views and top-of-the-line amenities.",
+      "price": 184000,
+      "address": "8618 Highland Ave",
+      "city": "Miami",
+      "state": "FL",
+      "zipCode": "24036",
+      "beds": 2,
+      "baths": 1,
+      "sqft": 731,
+      "lotSize": null,
+      "yearBuilt": 2000,
+      "type": "Apartment",
+      "status": "For Rent",
+      "features": [
+        "Solar Panels",
+        "EV Charging",
+        "Pool",
+        "Gym"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop9a/800/600",
+        "https://picsum.photos/seed/prop9b/800/600",
+        "https://picsum.photos/seed/prop9c/800/600"
+      ],
+      "agent": {
+        "name": "Jessica Taylor",
+        "phone": "(555) 678-9012",
+        "email": "jessica@nestquest.com"
+      },
+      "createdAt": "2024-10-13",
+      "isFeatured": false
+    },
+    {
+      "id": 10,
+      "title": "Stunning 6-Bedroom Villa in Nashville",
+      "description": "Move-in ready with recent upgrades and a spacious backyard. Charming property in a quiet neighborhood with excellent schools nearby.",
+      "price": 1454000,
+      "address": "8818 Elm Way",
+      "city": "Nashville",
+      "state": "TN",
+      "zipCode": "55268",
+      "beds": 6,
+      "baths": 6,
+      "sqft": 1598,
+      "lotSize": 2299,
+      "yearBuilt": 1969,
+      "type": "Villa",
+      "status": "For Rent",
+      "features": [
+        "Garden",
+        "Smart Home",
+        "Garage"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop10a/800/600",
+        "https://picsum.photos/seed/prop10b/800/600",
+        "https://picsum.photos/seed/prop10c/800/600"
+      ],
+      "agent": {
+        "name": "David Kim",
+        "phone": "(555) 567-8901",
+        "email": "david@nestquest.com"
+      },
+      "createdAt": "2024-07-19",
+      "isFeatured": false
+    },
+    {
+      "id": 11,
+      "title": "Modern 2-Bedroom Apartment in Seattle",
+      "description": "Contemporary design meets comfort in this meticulously maintained property. Perfectly situated property offering both privacy and convenience.",
+      "price": 402000,
+      "address": "906 Pine St",
+      "city": "Seattle",
+      "state": "WA",
+      "zipCode": "21047",
+      "beds": 2,
+      "baths": 2,
+      "sqft": 1296,
+      "lotSize": null,
+      "yearBuilt": 1966,
+      "type": "Apartment",
+      "status": "Pending",
+      "features": [
+        "Fireplace",
+        "Walk-in Closet",
+        "Solar Panels",
+        "Central AC"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop11a/800/600",
+        "https://picsum.photos/seed/prop11b/800/600",
+        "https://picsum.photos/seed/prop11c/800/600"
+      ],
+      "agent": {
+        "name": "David Kim",
+        "phone": "(555) 567-8901",
+        "email": "david@nestquest.com"
+      },
+      "createdAt": "2024-04-10",
+      "isFeatured": false
+    },
+    {
+      "id": 12,
+      "title": "Elegant 3-Bedroom Condo in Nashville",
+      "description": "Perfectly situated property offering both privacy and convenience. Beautifully renovated with an open floor plan perfect for entertaining.",
+      "price": 300000,
+      "address": "1718 Park Pl",
+      "city": "Nashville",
+      "state": "TN",
+      "zipCode": "99576",
+      "beds": 3,
+      "baths": 2,
+      "sqft": 967,
+      "lotSize": 11224,
+      "yearBuilt": 1978,
+      "type": "Condo",
+      "status": "Pending",
+      "features": [
+        "Laundry Room",
+        "Garden",
+        "Solar Panels",
+        "Garage",
+        "Walk-in Closet"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop12a/800/600",
+        "https://picsum.photos/seed/prop12b/800/600",
+        "https://picsum.photos/seed/prop12c/800/600"
+      ],
+      "agent": {
+        "name": "Michael Chen",
+        "phone": "(555) 345-6789",
+        "email": "michael@nestquest.com"
+      },
+      "createdAt": "2024-03-08",
+      "isFeatured": false
+    },
+    {
+      "id": 13,
+      "title": "Stunning 4-Bedroom Villa in New York",
+      "description": "Perfectly situated property offering both privacy and convenience. Charming property in a quiet neighborhood with excellent schools nearby.",
+      "price": 1862000,
+      "address": "4605 Birch Ln",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "82305",
+      "beds": 4,
+      "baths": 3,
+      "sqft": 3673,
+      "lotSize": 13718,
+      "yearBuilt": 2008,
+      "type": "Villa",
+      "status": "Pending",
+      "features": [
+        "Walk-in Closet",
+        "Garage",
+        "Central AC",
+        "EV Charging",
+        "Hardwood Floors",
+        "Garden",
+        "Laundry Room"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop13a/800/600",
+        "https://picsum.photos/seed/prop13b/800/600",
+        "https://picsum.photos/seed/prop13c/800/600"
+      ],
+      "agent": {
+        "name": "Michael Chen",
+        "phone": "(555) 345-6789",
+        "email": "michael@nestquest.com"
+      },
+      "createdAt": "2024-10-06",
+      "isFeatured": false
+    },
+    {
+      "id": 14,
+      "title": "Grand 1-Bedroom Apartment in New York",
+      "description": "Elegant property boasting high ceilings and abundant natural light. Beautifully renovated with an open floor plan perfect for entertaining.",
+      "price": 769000,
+      "address": "4232 Park Pl",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "70497",
+      "beds": 1,
+      "baths": 1,
+      "sqft": 1402,
+      "lotSize": null,
+      "yearBuilt": 2005,
+      "type": "Apartment",
+      "status": "Pending",
+      "features": [
+        "Garage",
+        "Laundry Room",
+        "Hardwood Floors",
+        "Balcony"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop14a/800/600",
+        "https://picsum.photos/seed/prop14b/800/600",
+        "https://picsum.photos/seed/prop14c/800/600"
+      ],
+      "agent": {
+        "name": "Michael Chen",
+        "phone": "(555) 345-6789",
+        "email": "michael@nestquest.com"
+      },
+      "createdAt": "2024-03-03",
+      "isFeatured": false
+    },
+    {
+      "id": 15,
+      "title": "Luxurious 2-Bedroom Apartment in Miami",
+      "description": "Prime location with easy access to dining, shopping, and transit. Beautifully renovated with an open floor plan perfect for entertaining.",
+      "price": 491000,
+      "address": "2188 Birch Ln",
+      "city": "Miami",
+      "state": "FL",
+      "zipCode": "40008",
+      "beds": 2,
+      "baths": 1,
+      "sqft": 1495,
+      "lotSize": null,
+      "yearBuilt": 1968,
+      "type": "Apartment",
+      "status": "For Sale",
+      "features": [
+        "Gym",
+        "Central AC",
+        "Fireplace",
+        "Solar Panels",
+        "Pool",
+        "Basement",
+        "Garage"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop15a/800/600",
+        "https://picsum.photos/seed/prop15b/800/600",
+        "https://picsum.photos/seed/prop15c/800/600"
+      ],
+      "agent": {
+        "name": "Emily Rodriguez",
+        "phone": "(555) 456-7890",
+        "email": "emily@nestquest.com"
+      },
+      "createdAt": "2024-09-06",
+      "isFeatured": false
+    },
+    {
+      "id": 16,
+      "title": "Beautiful 3-Bedroom House in San Francisco",
+      "description": "Prime location with easy access to dining, shopping, and transit. Stunning property featuring modern architecture and premium finishes throughout.",
+      "price": 783000,
+      "address": "4894 Elm Way",
+      "city": "San Francisco",
+      "state": "CA",
+      "zipCode": "68905",
+      "beds": 3,
+      "baths": 3,
+      "sqft": 1357,
+      "lotSize": 2742,
+      "yearBuilt": 1985,
+      "type": "House",
+      "status": "Sold",
+      "features": [
+        "Pool",
+        "Central AC",
+        "Laundry Room",
+        "Walk-in Closet"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop16a/800/600",
+        "https://picsum.photos/seed/prop16b/800/600",
+        "https://picsum.photos/seed/prop16c/800/600"
+      ],
+      "agent": {
+        "name": "Jessica Taylor",
+        "phone": "(555) 678-9012",
+        "email": "jessica@nestquest.com"
+      },
+      "createdAt": "2024-05-07",
+      "isFeatured": false
+    },
+    {
+      "id": 17,
+      "title": "Contemporary 6-Bedroom Townhouse in Nashville",
+      "description": "Charming property in a quiet neighborhood with excellent schools nearby. Charming property in a quiet neighborhood with excellent schools nearby.",
+      "price": 220000,
+      "address": "9594 Walnut Ct",
+      "city": "Nashville",
+      "state": "TN",
+      "zipCode": "52357",
+      "beds": 6,
+      "baths": 5,
+      "sqft": 1243,
+      "lotSize": 2156,
+      "yearBuilt": 1999,
+      "type": "Townhouse",
+      "status": "For Rent",
+      "features": [
+        "Hardwood Floors",
+        "Central AC",
+        "Walk-in Closet",
+        "Garden",
+        "Solar Panels"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop17a/800/600",
+        "https://picsum.photos/seed/prop17b/800/600",
+        "https://picsum.photos/seed/prop17c/800/600"
+      ],
+      "agent": {
+        "name": "David Kim",
+        "phone": "(555) 567-8901",
+        "email": "david@nestquest.com"
+      },
+      "createdAt": "2024-04-13",
+      "isFeatured": false
+    },
+    {
+      "id": 18,
+      "title": "Grand 4-Bedroom Townhouse in Denver",
+      "description": "Move-in ready with recent upgrades and a spacious backyard. Contemporary design meets comfort in this meticulously maintained property.",
+      "price": 339000,
+      "address": "2993 Pine St",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "19409",
+      "beds": 4,
+      "baths": 3,
+      "sqft": 4230,
+      "lotSize": 11619,
+      "yearBuilt": 2012,
+      "type": "Townhouse",
+      "status": "Sold",
+      "features": [
+        "Gym",
+        "Pool",
+        "Solar Panels",
+        "Hardwood Floors",
+        "Garden",
+        "Garage"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop18a/800/600",
+        "https://picsum.photos/seed/prop18b/800/600",
+        "https://picsum.photos/seed/prop18c/800/600"
+      ],
+      "agent": {
+        "name": "David Kim",
+        "phone": "(555) 567-8901",
+        "email": "david@nestquest.com"
+      },
+      "createdAt": "2024-04-06",
+      "isFeatured": false
+    },
+    {
+      "id": 19,
+      "title": "Contemporary 4-Bedroom House in Seattle",
+      "description": "Charming property in a quiet neighborhood with excellent schools nearby. Charming property in a quiet neighborhood with excellent schools nearby.",
+      "price": 739000,
+      "address": "5972 Highland Ave",
+      "city": "Seattle",
+      "state": "WA",
+      "zipCode": "48268",
+      "beds": 4,
+      "baths": 3,
+      "sqft": 3585,
+      "lotSize": 7019,
+      "yearBuilt": 1975,
+      "type": "House",
+      "status": "For Rent",
+      "features": [
+        "Garage",
+        "Gym",
+        "Laundry Room"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop19a/800/600",
+        "https://picsum.photos/seed/prop19b/800/600",
+        "https://picsum.photos/seed/prop19c/800/600"
+      ],
+      "agent": {
+        "name": "Jessica Taylor",
+        "phone": "(555) 678-9012",
+        "email": "jessica@nestquest.com"
+      },
+      "createdAt": "2024-11-16",
+      "isFeatured": false
+    },
+    {
+      "id": 20,
+      "title": "Luxurious 3-Bedroom House in Seattle",
+      "description": "Beautifully renovated with an open floor plan perfect for entertaining. Stunning property featuring modern architecture and premium finishes throughout.",
+      "price": 531000,
+      "address": "4834 Harbor View",
+      "city": "Seattle",
+      "state": "WA",
+      "zipCode": "67461",
+      "beds": 3,
+      "baths": 2,
+      "sqft": 4184,
+      "lotSize": 4114,
+      "yearBuilt": 1995,
+      "type": "House",
+      "status": "For Rent",
+      "features": [
+        "Central AC",
+        "Basement",
+        "Solar Panels",
+        "Balcony"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop20a/800/600",
+        "https://picsum.photos/seed/prop20b/800/600",
+        "https://picsum.photos/seed/prop20c/800/600"
+      ],
+      "agent": {
+        "name": "Jessica Taylor",
+        "phone": "(555) 678-9012",
+        "email": "jessica@nestquest.com"
+      },
+      "createdAt": "2024-09-07",
+      "isFeatured": false
+    },
+    {
+      "id": 21,
+      "title": "Luxurious 1-Bedroom Apartment in Boston",
+      "description": "Luxurious living with breathtaking views and top-of-the-line amenities. Luxurious living with breathtaking views and top-of-the-line amenities.",
+      "price": 388000,
+      "address": "4556 Broadway",
+      "city": "Boston",
+      "state": "MA",
+      "zipCode": "25047",
+      "beds": 1,
+      "baths": 1,
+      "sqft": 1415,
+      "lotSize": null,
+      "yearBuilt": 1971,
+      "type": "Apartment",
+      "status": "For Sale",
+      "features": [
+        "EV Charging",
+        "Garage",
+        "Solar Panels",
+        "Fireplace"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop21a/800/600",
+        "https://picsum.photos/seed/prop21b/800/600",
+        "https://picsum.photos/seed/prop21c/800/600"
+      ],
+      "agent": {
+        "name": "David Kim",
+        "phone": "(555) 567-8901",
+        "email": "david@nestquest.com"
+      },
+      "createdAt": "2024-04-05",
+      "isFeatured": false
+    },
+    {
+      "id": 22,
+      "title": "Spacious 3-Bedroom Condo in Denver",
+      "description": "Luxurious living with breathtaking views and top-of-the-line amenities. Elegant property boasting high ceilings and abundant natural light.",
+      "price": 568000,
+      "address": "2231 Harbor View",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "37218",
+      "beds": 3,
+      "baths": 3,
+      "sqft": 1113,
+      "lotSize": 8671,
+      "yearBuilt": 1989,
+      "type": "Condo",
+      "status": "Pending",
+      "features": [
+        "Central AC",
+        "Walk-in Closet",
+        "Hardwood Floors",
+        "Smart Home",
+        "Pool"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop22a/800/600",
+        "https://picsum.photos/seed/prop22b/800/600",
+        "https://picsum.photos/seed/prop22c/800/600"
+      ],
+      "agent": {
+        "name": "Emily Rodriguez",
+        "phone": "(555) 456-7890",
+        "email": "emily@nestquest.com"
+      },
+      "createdAt": "2024-05-22",
+      "isFeatured": false
+    },
+    {
+      "id": 23,
+      "title": "Contemporary 4-Bedroom Villa in Austin",
+      "description": "Move-in ready with recent upgrades and a spacious backyard. Perfectly situated property offering both privacy and convenience.",
+      "price": 1974000,
+      "address": "7531 Broadway",
+      "city": "Austin",
+      "state": "TX",
+      "zipCode": "41644",
+      "beds": 4,
+      "baths": 4,
+      "sqft": 2944,
+      "lotSize": 2052,
+      "yearBuilt": 2004,
+      "type": "Villa",
+      "status": "For Sale",
+      "features": [
+        "Central AC",
+        "Garage",
+        "Gym",
+        "Garden",
+        "Pool",
+        "Basement",
+        "Walk-in Closet"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop23a/800/600",
+        "https://picsum.photos/seed/prop23b/800/600",
+        "https://picsum.photos/seed/prop23c/800/600"
+      ],
+      "agent": {
+        "name": "Sarah Johnson",
+        "phone": "(555) 234-5678",
+        "email": "sarah@nestquest.com"
+      },
+      "createdAt": "2024-11-26",
+      "isFeatured": false
+    },
+    {
+      "id": 24,
+      "title": "Elegant 3-Bedroom Condo in Seattle",
+      "description": "Move-in ready with recent upgrades and a spacious backyard. Luxurious living with breathtaking views and top-of-the-line amenities.",
+      "price": 489000,
+      "address": "550 Oak Ave",
+      "city": "Seattle",
+      "state": "WA",
+      "zipCode": "67136",
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1598,
+      "lotSize": 6325,
+      "yearBuilt": 2008,
+      "type": "Condo",
+      "status": "Sold",
+      "features": [
+        "Balcony",
+        "Solar Panels",
+        "Garage"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop24a/800/600",
+        "https://picsum.photos/seed/prop24b/800/600",
+        "https://picsum.photos/seed/prop24c/800/600"
+      ],
+      "agent": {
+        "name": "Emily Rodriguez",
+        "phone": "(555) 456-7890",
+        "email": "emily@nestquest.com"
+      },
+      "createdAt": "2024-01-16",
+      "isFeatured": false
+    },
+    {
+      "id": 25,
+      "title": "Grand 5-Bedroom House in Chicago",
+      "description": "Stunning property featuring modern architecture and premium finishes throughout. Move-in ready with recent upgrades and a spacious backyard.",
+      "price": 1066000,
+      "address": "4100 Sunset Rd",
+      "city": "Chicago",
+      "state": "IL",
+      "zipCode": "70068",
+      "beds": 5,
+      "baths": 4,
+      "sqft": 4565,
+      "lotSize": 3412,
+      "yearBuilt": 1970,
+      "type": "House",
+      "status": "Sold",
+      "features": [
+        "Laundry Room",
+        "Balcony",
+        "Solar Panels"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop25a/800/600",
+        "https://picsum.photos/seed/prop25b/800/600",
+        "https://picsum.photos/seed/prop25c/800/600"
+      ],
+      "agent": {
+        "name": "Sarah Johnson",
+        "phone": "(555) 234-5678",
+        "email": "sarah@nestquest.com"
+      },
+      "createdAt": "2024-11-13",
+      "isFeatured": false
+    },
+    {
+      "id": 26,
+      "title": "Exquisite 1-Bedroom Condo in Chicago",
+      "description": "Perfectly situated property offering both privacy and convenience. Elegant property boasting high ceilings and abundant natural light.",
+      "price": 673000,
+      "address": "6174 Pine St",
+      "city": "Chicago",
+      "state": "IL",
+      "zipCode": "50819",
+      "beds": 1,
+      "baths": 1,
+      "sqft": 1503,
+      "lotSize": 6370,
+      "yearBuilt": 1984,
+      "type": "Condo",
+      "status": "For Sale",
+      "features": [
+        "Laundry Room",
+        "Gym",
+        "Solar Panels",
+        "Basement"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop26a/800/600",
+        "https://picsum.photos/seed/prop26b/800/600",
+        "https://picsum.photos/seed/prop26c/800/600"
+      ],
+      "agent": {
+        "name": "Michael Chen",
+        "phone": "(555) 345-6789",
+        "email": "michael@nestquest.com"
+      },
+      "createdAt": "2024-06-12",
+      "isFeatured": false
+    },
+    {
+      "id": 27,
+      "title": "Spacious 3-Bedroom Apartment in San Francisco",
+      "description": "Perfectly situated property offering both privacy and convenience. A rare gem featuring a chef's kitchen and spa-like master bath.",
+      "price": 651000,
+      "address": "2635 River Rd",
+      "city": "San Francisco",
+      "state": "CA",
+      "zipCode": "58772",
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1767,
+      "lotSize": null,
+      "yearBuilt": 2008,
+      "type": "Apartment",
+      "status": "Pending",
+      "features": [
+        "Pool",
+        "Garage",
+        "Solar Panels"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop27a/800/600",
+        "https://picsum.photos/seed/prop27b/800/600",
+        "https://picsum.photos/seed/prop27c/800/600"
+      ],
+      "agent": {
+        "name": "David Kim",
+        "phone": "(555) 567-8901",
+        "email": "david@nestquest.com"
+      },
+      "createdAt": "2024-08-19",
+      "isFeatured": false
+    },
+    {
+      "id": 28,
+      "title": "Grand 1-Bedroom Apartment in Austin",
+      "description": "Stunning property featuring modern architecture and premium finishes throughout. Stunning property featuring modern architecture and premium finishes throughout.",
+      "price": 388000,
+      "address": "3528 Cedar Blvd",
+      "city": "Austin",
+      "state": "TX",
+      "zipCode": "39436",
+      "beds": 1,
+      "baths": 1,
+      "sqft": 874,
+      "lotSize": null,
+      "yearBuilt": 1998,
+      "type": "Apartment",
+      "status": "Sold",
+      "features": [
+        "Fireplace",
+        "Balcony",
+        "Gym"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop28a/800/600",
+        "https://picsum.photos/seed/prop28b/800/600",
+        "https://picsum.photos/seed/prop28c/800/600"
+      ],
+      "agent": {
+        "name": "David Kim",
+        "phone": "(555) 567-8901",
+        "email": "david@nestquest.com"
+      },
+      "createdAt": "2024-06-22",
+      "isFeatured": false
+    },
+    {
+      "id": 29,
+      "title": "Exquisite 4-Bedroom Villa in New York",
+      "description": "Move-in ready with recent upgrades and a spacious backyard. Beautifully renovated with an open floor plan perfect for entertaining.",
+      "price": 1504000,
+      "address": "6721 Cedar Blvd",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "45894",
+      "beds": 4,
+      "baths": 4,
+      "sqft": 4285,
+      "lotSize": 5464,
+      "yearBuilt": 2016,
+      "type": "Villa",
+      "status": "For Sale",
+      "features": [
+        "Laundry Room",
+        "Smart Home",
+        "Central AC",
+        "EV Charging",
+        "Garden",
+        "Walk-in Closet"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop29a/800/600",
+        "https://picsum.photos/seed/prop29b/800/600",
+        "https://picsum.photos/seed/prop29c/800/600"
+      ],
+      "agent": {
+        "name": "Michael Chen",
+        "phone": "(555) 345-6789",
+        "email": "michael@nestquest.com"
+      },
+      "createdAt": "2024-05-04",
+      "isFeatured": false
+    },
+    {
+      "id": 30,
+      "title": "Cozy 1-Bedroom Apartment in Denver",
+      "description": "Luxurious living with breathtaking views and top-of-the-line amenities. Prime location with easy access to dining, shopping, and transit.",
+      "price": 596000,
+      "address": "5314 Walnut Ct",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "17544",
+      "beds": 1,
+      "baths": 1,
+      "sqft": 1343,
+      "lotSize": null,
+      "yearBuilt": 1982,
+      "type": "Apartment",
+      "status": "For Rent",
+      "features": [
+        "Central AC",
+        "Garden",
+        "Solar Panels",
+        "Smart Home",
+        "Walk-in Closet"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop30a/800/600",
+        "https://picsum.photos/seed/prop30b/800/600",
+        "https://picsum.photos/seed/prop30c/800/600"
+      ],
+      "agent": {
+        "name": "Michael Chen",
+        "phone": "(555) 345-6789",
+        "email": "michael@nestquest.com"
+      },
+      "createdAt": "2024-06-13",
+      "isFeatured": false
+    },
+    {
+      "id": 31,
+      "title": "Modern 3-Bedroom Townhouse in New York",
+      "description": "Elegant property boasting high ceilings and abundant natural light. Move-in ready with recent upgrades and a spacious backyard.",
+      "price": 579000,
+      "address": "8587 River Rd",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "18884",
+      "beds": 3,
+      "baths": 3,
+      "sqft": 4582,
+      "lotSize": 4630,
+      "yearBuilt": 1982,
+      "type": "Townhouse",
+      "status": "Pending",
+      "features": [
+        "Central AC",
+        "Basement",
+        "Fireplace"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop31a/800/600",
+        "https://picsum.photos/seed/prop31b/800/600",
+        "https://picsum.photos/seed/prop31c/800/600"
+      ],
+      "agent": {
+        "name": "Michael Chen",
+        "phone": "(555) 345-6789",
+        "email": "michael@nestquest.com"
+      },
+      "createdAt": "2024-04-19",
+      "isFeatured": false
+    },
+    {
+      "id": 32,
+      "title": "Spacious 2-Bedroom House in Miami",
+      "description": "Move-in ready with recent upgrades and a spacious backyard. Beautifully renovated with an open floor plan perfect for entertaining.",
+      "price": 297000,
+      "address": "9500 Harbor View",
+      "city": "Miami",
+      "state": "FL",
+      "zipCode": "87251",
+      "beds": 2,
+      "baths": 2,
+      "sqft": 4154,
+      "lotSize": 9281,
+      "yearBuilt": 1988,
+      "type": "House",
+      "status": "For Sale",
+      "features": [
+        "Garden",
+        "Basement",
+        "Smart Home"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop32a/800/600",
+        "https://picsum.photos/seed/prop32b/800/600",
+        "https://picsum.photos/seed/prop32c/800/600"
+      ],
+      "agent": {
+        "name": "Sarah Johnson",
+        "phone": "(555) 234-5678",
+        "email": "sarah@nestquest.com"
+      },
+      "createdAt": "2024-10-01",
+      "isFeatured": false
+    },
+    {
+      "id": 33,
+      "title": "Modern 5-Bedroom Townhouse in Miami",
+      "description": "Elegant property boasting high ceilings and abundant natural light. Charming property in a quiet neighborhood with excellent schools nearby.",
+      "price": 166000,
+      "address": "418 Oak Ave",
+      "city": "Miami",
+      "state": "FL",
+      "zipCode": "29236",
+      "beds": 5,
+      "baths": 4,
+      "sqft": 3902,
+      "lotSize": 10933,
+      "yearBuilt": 2013,
+      "type": "Townhouse",
+      "status": "Pending",
+      "features": [
+        "Basement",
+        "Garage",
+        "Walk-in Closet",
+        "EV Charging",
+        "Garden",
+        "Pool"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop33a/800/600",
+        "https://picsum.photos/seed/prop33b/800/600",
+        "https://picsum.photos/seed/prop33c/800/600"
+      ],
+      "agent": {
+        "name": "Emily Rodriguez",
+        "phone": "(555) 456-7890",
+        "email": "emily@nestquest.com"
+      },
+      "createdAt": "2024-02-23",
+      "isFeatured": false
+    },
+    {
+      "id": 34,
+      "title": "Modern 6-Bedroom Villa in Nashville",
+      "description": "Contemporary design meets comfort in this meticulously maintained property. Perfectly situated property offering both privacy and convenience.",
+      "price": 1579000,
+      "address": "998 Park Pl",
+      "city": "Nashville",
+      "state": "TN",
+      "zipCode": "50122",
+      "beds": 6,
+      "baths": 5,
+      "sqft": 4607,
+      "lotSize": 7638,
+      "yearBuilt": 2006,
+      "type": "Villa",
+      "status": "For Rent",
+      "features": [
+        "Garden",
+        "Garage",
+        "Central AC"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop34a/800/600",
+        "https://picsum.photos/seed/prop34b/800/600",
+        "https://picsum.photos/seed/prop34c/800/600"
+      ],
+      "agent": {
+        "name": "Michael Chen",
+        "phone": "(555) 345-6789",
+        "email": "michael@nestquest.com"
+      },
+      "createdAt": "2024-03-21",
+      "isFeatured": false
+    },
+    {
+      "id": 35,
+      "title": "Pristine 2-Bedroom Apartment in Los Angeles",
+      "description": "Charming property in a quiet neighborhood with excellent schools nearby. A rare gem featuring a chef's kitchen and spa-like master bath.",
+      "price": 186000,
+      "address": "9847 Main St",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zipCode": "32196",
+      "beds": 2,
+      "baths": 1,
+      "sqft": 822,
+      "lotSize": null,
+      "yearBuilt": 2021,
+      "type": "Apartment",
+      "status": "For Rent",
+      "features": [
+        "Solar Panels",
+        "Central AC",
+        "Smart Home",
+        "Balcony",
+        "Pool",
+        "Basement"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop35a/800/600",
+        "https://picsum.photos/seed/prop35b/800/600",
+        "https://picsum.photos/seed/prop35c/800/600"
+      ],
+      "agent": {
+        "name": "Jessica Taylor",
+        "phone": "(555) 678-9012",
+        "email": "jessica@nestquest.com"
+      },
+      "createdAt": "2024-04-19",
+      "isFeatured": false
+    },
+    {
+      "id": 36,
+      "title": "Exquisite 6-Bedroom Townhouse in Austin",
+      "description": "Perfectly situated property offering both privacy and convenience. Luxurious living with breathtaking views and top-of-the-line amenities.",
+      "price": 258000,
+      "address": "3537 Highland Ave",
+      "city": "Austin",
+      "state": "TX",
+      "zipCode": "99796",
+      "beds": 6,
+      "baths": 6,
+      "sqft": 1619,
+      "lotSize": 11937,
+      "yearBuilt": 1977,
+      "type": "Townhouse",
+      "status": "Sold",
+      "features": [
+        "Pool",
+        "EV Charging",
+        "Laundry Room",
+        "Garden",
+        "Garage",
+        "Solar Panels"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop36a/800/600",
+        "https://picsum.photos/seed/prop36b/800/600",
+        "https://picsum.photos/seed/prop36c/800/600"
+      ],
+      "agent": {
+        "name": "Jessica Taylor",
+        "phone": "(555) 678-9012",
+        "email": "jessica@nestquest.com"
+      },
+      "createdAt": "2024-04-02",
+      "isFeatured": false
+    },
+    {
+      "id": 37,
+      "title": "Elegant 2-Bedroom Apartment in Miami",
+      "description": "Perfectly situated property offering both privacy and convenience. Beautifully renovated with an open floor plan perfect for entertaining.",
+      "price": 564000,
+      "address": "6505 Harbor View",
+      "city": "Miami",
+      "state": "FL",
+      "zipCode": "95710",
+      "beds": 2,
+      "baths": 1,
+      "sqft": 762,
+      "lotSize": null,
+      "yearBuilt": 1968,
+      "type": "Apartment",
+      "status": "For Sale",
+      "features": [
+        "Smart Home",
+        "Solar Panels",
+        "Walk-in Closet",
+        "Laundry Room"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop37a/800/600",
+        "https://picsum.photos/seed/prop37b/800/600",
+        "https://picsum.photos/seed/prop37c/800/600"
+      ],
+      "agent": {
+        "name": "Jessica Taylor",
+        "phone": "(555) 678-9012",
+        "email": "jessica@nestquest.com"
+      },
+      "createdAt": "2024-01-25",
+      "isFeatured": false
+    },
+    {
+      "id": 38,
+      "title": "Cozy 2-Bedroom Villa in San Francisco",
+      "description": "Prime location with easy access to dining, shopping, and transit. A rare gem featuring a chef's kitchen and spa-like master bath.",
+      "price": 1955000,
+      "address": "3502 Pine St",
+      "city": "San Francisco",
+      "state": "CA",
+      "zipCode": "57131",
+      "beds": 2,
+      "baths": 2,
+      "sqft": 4939,
+      "lotSize": 6192,
+      "yearBuilt": 1994,
+      "type": "Villa",
+      "status": "Pending",
+      "features": [
+        "EV Charging",
+        "Central AC",
+        "Fireplace",
+        "Walk-in Closet"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop38a/800/600",
+        "https://picsum.photos/seed/prop38b/800/600",
+        "https://picsum.photos/seed/prop38c/800/600"
+      ],
+      "agent": {
+        "name": "Sarah Johnson",
+        "phone": "(555) 234-5678",
+        "email": "sarah@nestquest.com"
+      },
+      "createdAt": "2024-03-22",
+      "isFeatured": false
+    },
+    {
+      "id": 39,
+      "title": "Exquisite 2-Bedroom Apartment in Miami",
+      "description": "Beautifully renovated with an open floor plan perfect for entertaining. A rare gem featuring a chef's kitchen and spa-like master bath.",
+      "price": 466000,
+      "address": "9418 Pine St",
+      "city": "Miami",
+      "state": "FL",
+      "zipCode": "75466",
+      "beds": 2,
+      "baths": 1,
+      "sqft": 1644,
+      "lotSize": null,
+      "yearBuilt": 1999,
+      "type": "Apartment",
+      "status": "For Rent",
+      "features": [
+        "Solar Panels",
+        "Fireplace",
+        "Garden",
+        "Pool"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop39a/800/600",
+        "https://picsum.photos/seed/prop39b/800/600",
+        "https://picsum.photos/seed/prop39c/800/600"
+      ],
+      "agent": {
+        "name": "Emily Rodriguez",
+        "phone": "(555) 456-7890",
+        "email": "emily@nestquest.com"
+      },
+      "createdAt": "2024-06-10",
+      "isFeatured": false
+    },
+    {
+      "id": 40,
+      "title": "Charming 3-Bedroom Apartment in New York",
+      "description": "A rare gem featuring a chef's kitchen and spa-like master bath. Beautifully renovated with an open floor plan perfect for entertaining.",
+      "price": 499000,
+      "address": "8126 Cedar Blvd",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "47686",
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1050,
+      "lotSize": null,
+      "yearBuilt": 1974,
+      "type": "Apartment",
+      "status": "Sold",
+      "features": [
+        "Garage",
+        "EV Charging",
+        "Garden",
+        "Central AC",
+        "Gym",
+        "Smart Home",
+        "Walk-in Closet"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop40a/800/600",
+        "https://picsum.photos/seed/prop40b/800/600",
+        "https://picsum.photos/seed/prop40c/800/600"
+      ],
+      "agent": {
+        "name": "Michael Chen",
+        "phone": "(555) 345-6789",
+        "email": "michael@nestquest.com"
+      },
+      "createdAt": "2024-10-11",
+      "isFeatured": false
+    },
+    {
+      "id": 41,
+      "title": "Luxurious 4-Bedroom Townhouse in Chicago",
+      "description": "Luxurious living with breathtaking views and top-of-the-line amenities. Beautifully renovated with an open floor plan perfect for entertaining.",
+      "price": 255000,
+      "address": "5757 Maple Dr",
+      "city": "Chicago",
+      "state": "IL",
+      "zipCode": "33705",
+      "beds": 4,
+      "baths": 3,
+      "sqft": 2419,
+      "lotSize": 8250,
+      "yearBuilt": 2013,
+      "type": "Townhouse",
+      "status": "Sold",
+      "features": [
+        "Laundry Room",
+        "Pool",
+        "Balcony",
+        "Garden",
+        "Central AC",
+        "Smart Home"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop41a/800/600",
+        "https://picsum.photos/seed/prop41b/800/600",
+        "https://picsum.photos/seed/prop41c/800/600"
+      ],
+      "agent": {
+        "name": "Jessica Taylor",
+        "phone": "(555) 678-9012",
+        "email": "jessica@nestquest.com"
+      },
+      "createdAt": "2024-03-18",
+      "isFeatured": false
+    },
+    {
+      "id": 42,
+      "title": "Stunning 3-Bedroom Condo in Seattle",
+      "description": "Perfectly situated property offering both privacy and convenience. Beautifully renovated with an open floor plan perfect for entertaining.",
+      "price": 577000,
+      "address": "8892 Pine St",
+      "city": "Seattle",
+      "state": "WA",
+      "zipCode": "29394",
+      "beds": 3,
+      "baths": 3,
+      "sqft": 1278,
+      "lotSize": 12259,
+      "yearBuilt": 1996,
+      "type": "Condo",
+      "status": "For Sale",
+      "features": [
+        "Gym",
+        "Pool",
+        "Walk-in Closet",
+        "Garage",
+        "Solar Panels",
+        "Laundry Room"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop42a/800/600",
+        "https://picsum.photos/seed/prop42b/800/600",
+        "https://picsum.photos/seed/prop42c/800/600"
+      ],
+      "agent": {
+        "name": "Jessica Taylor",
+        "phone": "(555) 678-9012",
+        "email": "jessica@nestquest.com"
+      },
+      "createdAt": "2024-05-11",
+      "isFeatured": false
+    },
+    {
+      "id": 43,
+      "title": "Modern 1-Bedroom Condo in New York",
+      "description": "Luxurious living with breathtaking views and top-of-the-line amenities. Elegant property boasting high ceilings and abundant natural light.",
+      "price": 348000,
+      "address": "6238 Elm Way",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "60577",
+      "beds": 1,
+      "baths": 1,
+      "sqft": 980,
+      "lotSize": 12010,
+      "yearBuilt": 1965,
+      "type": "Condo",
+      "status": "For Rent",
+      "features": [
+        "Garage",
+        "Fireplace",
+        "Garden",
+        "Central AC"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop43a/800/600",
+        "https://picsum.photos/seed/prop43b/800/600",
+        "https://picsum.photos/seed/prop43c/800/600"
+      ],
+      "agent": {
+        "name": "Michael Chen",
+        "phone": "(555) 345-6789",
+        "email": "michael@nestquest.com"
+      },
+      "createdAt": "2024-12-15",
+      "isFeatured": false
+    },
+    {
+      "id": 44,
+      "title": "Elegant 3-Bedroom Apartment in Miami",
+      "description": "Contemporary design meets comfort in this meticulously maintained property. Charming property in a quiet neighborhood with excellent schools nearby.",
+      "price": 166000,
+      "address": "9719 Lakeview Dr",
+      "city": "Miami",
+      "state": "FL",
+      "zipCode": "94947",
+      "beds": 3,
+      "baths": 3,
+      "sqft": 1202,
+      "lotSize": null,
+      "yearBuilt": 1960,
+      "type": "Apartment",
+      "status": "Pending",
+      "features": [
+        "Basement",
+        "Gym",
+        "EV Charging",
+        "Balcony",
+        "Garage",
+        "Solar Panels",
+        "Fireplace"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop44a/800/600",
+        "https://picsum.photos/seed/prop44b/800/600",
+        "https://picsum.photos/seed/prop44c/800/600"
+      ],
+      "agent": {
+        "name": "David Kim",
+        "phone": "(555) 567-8901",
+        "email": "david@nestquest.com"
+      },
+      "createdAt": "2024-03-20",
+      "isFeatured": false
+    },
+    {
+      "id": 45,
+      "title": "Grand 2-Bedroom Villa in Los Angeles",
+      "description": "Prime location with easy access to dining, shopping, and transit. Perfectly situated property offering both privacy and convenience.",
+      "price": 1201000,
+      "address": "2322 Maple Dr",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zipCode": "66588",
+      "beds": 2,
+      "baths": 2,
+      "sqft": 1885,
+      "lotSize": 4342,
+      "yearBuilt": 2005,
+      "type": "Villa",
+      "status": "Pending",
+      "features": [
+        "Walk-in Closet",
+        "Pool",
+        "Garden",
+        "Central AC",
+        "Solar Panels",
+        "Smart Home",
+        "Laundry Room"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop45a/800/600",
+        "https://picsum.photos/seed/prop45b/800/600",
+        "https://picsum.photos/seed/prop45c/800/600"
+      ],
+      "agent": {
+        "name": "Jessica Taylor",
+        "phone": "(555) 678-9012",
+        "email": "jessica@nestquest.com"
+      },
+      "createdAt": "2024-04-04",
+      "isFeatured": false
+    },
+    {
+      "id": 46,
+      "title": "Exquisite 3-Bedroom House in Boston",
+      "description": "Luxurious living with breathtaking views and top-of-the-line amenities. Elegant property boasting high ceilings and abundant natural light.",
+      "price": 834000,
+      "address": "6979 Main St",
+      "city": "Boston",
+      "state": "MA",
+      "zipCode": "67108",
+      "beds": 3,
+      "baths": 3,
+      "sqft": 2037,
+      "lotSize": 10648,
+      "yearBuilt": 2000,
+      "type": "House",
+      "status": "Sold",
+      "features": [
+        "Gym",
+        "Garden",
+        "EV Charging"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop46a/800/600",
+        "https://picsum.photos/seed/prop46b/800/600",
+        "https://picsum.photos/seed/prop46c/800/600"
+      ],
+      "agent": {
+        "name": "David Kim",
+        "phone": "(555) 567-8901",
+        "email": "david@nestquest.com"
+      },
+      "createdAt": "2024-02-03",
+      "isFeatured": false
+    },
+    {
+      "id": 47,
+      "title": "Stunning 1-Bedroom Apartment in Austin",
+      "description": "Charming property in a quiet neighborhood with excellent schools nearby. Stunning property featuring modern architecture and premium finishes throughout.",
+      "price": 259000,
+      "address": "1371 Walnut Ct",
+      "city": "Austin",
+      "state": "TX",
+      "zipCode": "96430",
+      "beds": 1,
+      "baths": 1,
+      "sqft": 696,
+      "lotSize": null,
+      "yearBuilt": 1968,
+      "type": "Apartment",
+      "status": "For Sale",
+      "features": [
+        "Smart Home",
+        "Gym",
+        "Central AC",
+        "Solar Panels"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop47a/800/600",
+        "https://picsum.photos/seed/prop47b/800/600",
+        "https://picsum.photos/seed/prop47c/800/600"
+      ],
+      "agent": {
+        "name": "Emily Rodriguez",
+        "phone": "(555) 456-7890",
+        "email": "emily@nestquest.com"
+      },
+      "createdAt": "2024-11-11",
+      "isFeatured": false
+    },
+    {
+      "id": 48,
+      "title": "Exquisite 1-Bedroom Condo in Seattle",
+      "description": "Beautifully renovated with an open floor plan perfect for entertaining. Prime location with easy access to dining, shopping, and transit.",
+      "price": 405000,
+      "address": "6218 Elm Way",
+      "city": "Seattle",
+      "state": "WA",
+      "zipCode": "62820",
+      "beds": 1,
+      "baths": 1,
+      "sqft": 1344,
+      "lotSize": 9848,
+      "yearBuilt": 2011,
+      "type": "Condo",
+      "status": "Sold",
+      "features": [
+        "Smart Home",
+        "Walk-in Closet",
+        "Pool"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop48a/800/600",
+        "https://picsum.photos/seed/prop48b/800/600",
+        "https://picsum.photos/seed/prop48c/800/600"
+      ],
+      "agent": {
+        "name": "Michael Chen",
+        "phone": "(555) 345-6789",
+        "email": "michael@nestquest.com"
+      },
+      "createdAt": "2024-02-04",
+      "isFeatured": false
+    },
+    {
+      "id": 49,
+      "title": "Elegant 4-Bedroom House in San Francisco",
+      "description": "Contemporary design meets comfort in this meticulously maintained property. Move-in ready with recent upgrades and a spacious backyard.",
+      "price": 381000,
+      "address": "9185 Park Pl",
+      "city": "San Francisco",
+      "state": "CA",
+      "zipCode": "75944",
+      "beds": 4,
+      "baths": 4,
+      "sqft": 1423,
+      "lotSize": 6225,
+      "yearBuilt": 1962,
+      "type": "House",
+      "status": "For Rent",
+      "features": [
+        "EV Charging",
+        "Pool",
+        "Garage",
+        "Laundry Room",
+        "Central AC",
+        "Garden",
+        "Fireplace"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop49a/800/600",
+        "https://picsum.photos/seed/prop49b/800/600",
+        "https://picsum.photos/seed/prop49c/800/600"
+      ],
+      "agent": {
+        "name": "Michael Chen",
+        "phone": "(555) 345-6789",
+        "email": "michael@nestquest.com"
+      },
+      "createdAt": "2024-05-06",
+      "isFeatured": false
+    },
+    {
+      "id": 50,
+      "title": "Charming 4-Bedroom Townhouse in Austin",
+      "description": "A rare gem featuring a chef's kitchen and spa-like master bath. Prime location with easy access to dining, shopping, and transit.",
+      "price": 562000,
+      "address": "7282 Birch Ln",
+      "city": "Austin",
+      "state": "TX",
+      "zipCode": "66817",
+      "beds": 4,
+      "baths": 4,
+      "sqft": 1732,
+      "lotSize": 13517,
+      "yearBuilt": 2005,
+      "type": "Townhouse",
+      "status": "For Rent",
+      "features": [
+        "Pool",
+        "Gym",
+        "Fireplace",
+        "Solar Panels",
+        "Basement"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop50a/800/600",
+        "https://picsum.photos/seed/prop50b/800/600",
+        "https://picsum.photos/seed/prop50c/800/600"
+      ],
+      "agent": {
+        "name": "David Kim",
+        "phone": "(555) 567-8901",
+        "email": "david@nestquest.com"
+      },
+      "createdAt": "2024-10-15",
+      "isFeatured": false
+    },
+    {
+      "id": 51,
+      "title": "Luxurious 5-Bedroom Townhouse in Miami",
+      "description": "Luxurious living with breathtaking views and top-of-the-line amenities. Beautifully renovated with an open floor plan perfect for entertaining.",
+      "price": 401000,
+      "address": "9716 Walnut Ct",
+      "city": "Miami",
+      "state": "FL",
+      "zipCode": "62903",
+      "beds": 5,
+      "baths": 4,
+      "sqft": 3319,
+      "lotSize": 13079,
+      "yearBuilt": 2019,
+      "type": "Townhouse",
+      "status": "Pending",
+      "features": [
+        "Pool",
+        "Smart Home",
+        "Garage",
+        "Gym",
+        "Balcony",
+        "Central AC",
+        "Laundry Room"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop51a/800/600",
+        "https://picsum.photos/seed/prop51b/800/600",
+        "https://picsum.photos/seed/prop51c/800/600"
+      ],
+      "agent": {
+        "name": "David Kim",
+        "phone": "(555) 567-8901",
+        "email": "david@nestquest.com"
+      },
+      "createdAt": "2024-12-23",
+      "isFeatured": false
+    },
+    {
+      "id": 52,
+      "title": "Stunning 6-Bedroom Townhouse in Austin",
+      "description": "Stunning property featuring modern architecture and premium finishes throughout. Beautifully renovated with an open floor plan perfect for entertaining.",
+      "price": 739000,
+      "address": "4558 Harbor View",
+      "city": "Austin",
+      "state": "TX",
+      "zipCode": "92320",
+      "beds": 6,
+      "baths": 6,
+      "sqft": 2232,
+      "lotSize": 10224,
+      "yearBuilt": 1990,
+      "type": "Townhouse",
+      "status": "Sold",
+      "features": [
+        "EV Charging",
+        "Basement",
+        "Solar Panels",
+        "Fireplace"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop52a/800/600",
+        "https://picsum.photos/seed/prop52b/800/600",
+        "https://picsum.photos/seed/prop52c/800/600"
+      ],
+      "agent": {
+        "name": "David Kim",
+        "phone": "(555) 567-8901",
+        "email": "david@nestquest.com"
+      },
+      "createdAt": "2024-06-14",
+      "isFeatured": false
+    },
+    {
+      "id": 53,
+      "title": "Grand 2-Bedroom Apartment in Miami",
+      "description": "Stunning property featuring modern architecture and premium finishes throughout. A rare gem featuring a chef's kitchen and spa-like master bath.",
+      "price": 387000,
+      "address": "3724 Pine St",
+      "city": "Miami",
+      "state": "FL",
+      "zipCode": "35284",
+      "beds": 2,
+      "baths": 2,
+      "sqft": 717,
+      "lotSize": null,
+      "yearBuilt": 1994,
+      "type": "Apartment",
+      "status": "Sold",
+      "features": [
+        "Basement",
+        "Gym",
+        "Fireplace",
+        "Hardwood Floors",
+        "EV Charging",
+        "Central AC"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop53a/800/600",
+        "https://picsum.photos/seed/prop53b/800/600",
+        "https://picsum.photos/seed/prop53c/800/600"
+      ],
+      "agent": {
+        "name": "David Kim",
+        "phone": "(555) 567-8901",
+        "email": "david@nestquest.com"
+      },
+      "createdAt": "2024-05-26",
+      "isFeatured": false
+    },
+    {
+      "id": 54,
+      "title": "Cozy 4-Bedroom Villa in Chicago",
+      "description": "Perfectly situated property offering both privacy and convenience. Beautifully renovated with an open floor plan perfect for entertaining.",
+      "price": 1508000,
+      "address": "1973 Birch Ln",
+      "city": "Chicago",
+      "state": "IL",
+      "zipCode": "27236",
+      "beds": 4,
+      "baths": 3,
+      "sqft": 4559,
+      "lotSize": 12886,
+      "yearBuilt": 1990,
+      "type": "Villa",
+      "status": "Pending",
+      "features": [
+        "Balcony",
+        "Walk-in Closet",
+        "Smart Home",
+        "Garden",
+        "Hardwood Floors",
+        "Garage"
+      ],
+      "images": [
+        "https://picsum.photos/seed/prop54a/800/600",
+        "https://picsum.photos/seed/prop54b/800/600",
+        "https://picsum.photos/seed/prop54c/800/600"
+      ],
+      "agent": {
+        "name": "Jessica Taylor",
+        "phone": "(555) 678-9012",
+        "email": "jessica@nestquest.com"
+      },
+      "createdAt": "2024-07-14",
+      "isFeatured": false
+    }
+  ]
+}
